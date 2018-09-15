@@ -78,7 +78,7 @@ one additional task (Task 4) that is **optional** for the students that are quic
 
 ### Start assignment
 
-Start working on Problem 2 by opening [**Exercise-3-problem2.ipynb**](Exercise-3-problem2.ipynb) in JupyterLab. 
+Start working on Problem 2 by opening [**Exercise-3-problem-2.ipynb**](Exercise-3-problem-2.ipynb) in JupyterLab. 
 
 #### Your score on this problem will be based on following criteria:
 
@@ -115,7 +115,7 @@ To solve this problem, you should modify and fill in the missing parts in the co
 
 ### Start assignment
 
-Start working on Problem 3 by opening [**Exercise-3-problem3.ipynb**](Exercise-3-problem3.ipynb) in JupyterLab. 
+Start working on Problem 3 by opening [**Exercise-3-problem-3.ipynb**](Exercise-3-problem-3.ipynb) in JupyterLab. 
 
 #### Your score on this problem will be based on following criteria:
 
@@ -183,4 +183,4 @@ For this problem you should do following:
     
 ### Start assignment (optional)
 
-Start working on Problem 4 (optional) by opening [**Exercise-3-problem4.ipynb**](Exercise-3-problem4.ipynb) in JupyterLab. 
+Start working on Problem 4 (optional) by opening [**Exercise-3-problem-4.ipynb**](Exercise-3-problem-4.ipynb) in JupyterLab. 

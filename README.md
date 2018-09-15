@@ -49,7 +49,7 @@ Batch processing involves using scripts to process many data files, and one comm
 
 ### Start assignment
 
-Start working on Problem 1 by opening [**Exercise-3-problem1.ipynb**](Exercise-3-problem1.ipynb) in JupyterLab. 
+Start working on Problem 1 by opening [**Exercise-3-problem-1.ipynb**](Exercise-3-problem-1.ipynb) in JupyterLab. 
 
 #### Your score on this problem will be based on following criteria:
 

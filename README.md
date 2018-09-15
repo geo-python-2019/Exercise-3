@@ -11,7 +11,7 @@ After making your changes to the Notebook, you will need to upload it to GitHub.
 
 - Scores on this exercise are out of **20 points** that you get by finishing all 3 problems.
 
-#### Contents
+### Contents
 
 1. [Preparations before starting](#before-starting)
 2. [Problem 1 - Batch processing data files with a for loop](#problem-1---batch-processing-data-files-with-a-for-loop-4-points)

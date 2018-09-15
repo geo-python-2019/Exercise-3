@@ -14,10 +14,10 @@ After making your changes to the Notebook, you will need to upload it to GitHub.
 #### Contents
 
 1. [Preparations before starting](#before-starting)
-2. [Problem 1](#problem-1---batch-processing-data-files-with-a-for-loop-4-points)
-3. [Problem 2](#problem-2---classifying-temperatures-8-points)
-4. [Problem 3](#problem-3---allocating-locations-8-points)
-5. [Problem 4 (optional)](#extra-problem---nested-for-loops-optional-does-not-affect-grading)
+2. [Problem 1 - Batch processing data files with a for loop](#problem-1---batch-processing-data-files-with-a-for-loop-4-points)
+3. [Problem 2 - Classifying temperatures](#problem-2---classifying-temperatures-8-points)
+4. [Problem 3 - Allocating locations](#problem-3---allocating-locations-8-points)
+5. [Problem 4 (optional) - Nested `for` loops](#extra-problem---nested-for-loops-optional-does-not-affect-grading)
 
 
 ## Before starting

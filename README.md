@@ -5,11 +5,11 @@ Below you have a series of problems in which you are asked to edit the notebook 
 
 After making your changes to the Notebook, you will need to upload it to GitHub.
 
-- **Exercise 3 is due by the start of lecture on 26.9**.
+- **Exercise 3 is due by the start of the next lesson (9:15 am, 25 September 2019)**.
 
-- Don't forget to check out the [hints for this week's exercise](https://geo-python.github.io/2018/lessons/L3/exercise-3-hints.html) if you're having trouble.
+- Don't forget to check out the [hints for this week's exercise](https://geo-python.github.io/site/lessons/L3/exercise-3.html) if you're having trouble.
 
-- Scores on this exercise are out of **20 points** that you get by finishing all 3 problems.
+- Scores on this exercise are out of **20 points** that you get by solving all 3 problems.
 
 ### Contents
 
@@ -24,7 +24,7 @@ After making your changes to the Notebook, you will need to upload it to GitHub.
 
 ### Test that your IPython is up-to-date
 
-Our automatic grading system requires to have IPython version which is higher than 3. Test your version by running following cell (shift + Enter) in JupyterLab:
+Our automatic grading system requires to have IPython version which is higher than 3. Test your version by running following lines of code in JupyterLab (copy and paste the lines into a notebook cell and run the cell):
 
 ```python
 
@@ -36,7 +36,7 @@ print("Your system is okay, you can continue! :) ")
 
 ### Clone Exercise repository to JupyterLab
 
-Before starting to work with the actual problems for this week, you should start a new JupyterLab instance and clone your own Exercise 3 repository (e.g. htenkanen-exercise-3) into the instance using Git as we saw in the [**lecture**](https://geo-python.github.io/2018/lessons/L2/git-basics.html#clone-a-repository-from-github) during week 2.
+Before starting to work with the actual problems for this week, you should start a new JupyterLab instance and clone your own Exercise 3 repository (e.g. exercise-3-htenkanen) into the instance using Git as we saw in the [**lecture**](https://geo-python.github.io/site/lessons/L2/git-basics.html#clone-a-repository-from-github) during week 2.
 
 
 ## Problem 1 - Batch processing data files with a for loop (*4 Points*)

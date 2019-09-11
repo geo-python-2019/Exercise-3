@@ -24,7 +24,7 @@ After making your changes to the Notebook, you will need to upload it to GitHub.
 
 ### Test that your IPython is up-to-date
 
-Our automatic grading system requires to have IPython version which is higher than 3. Test your version by running following lines of code in JupyterLab (copy and paste the lines into a notebook cell and run the cell):
+Our automatic grading system requires to have IPython version which is higher than 3. Test your version by running following lines of code in JupyterLab:
 
 ```python
 

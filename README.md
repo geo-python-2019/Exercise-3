@@ -5,7 +5,7 @@ Below you have a series of problems in which you are asked to edit the notebook 
 
 After making your changes to the notebook, you will need to upload it to GitHub.
 
-- **Exercise 3 is due by the start of the next lesson (9:15 am, 25 September 2019)**.
+- **Exercise 3 is due by the start of the next lesson (9 am, 25 September 2019)**.
 
 - Don't forget to check out the [hints for this week's exercise](https://geo-python.github.io/site/lessons/L3/exercise-3.html) if you're having trouble.
 
